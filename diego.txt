@@ -4,3 +4,5 @@ soy de venezuela
 y enseño a programar
 lo hago en lexpin
 desde españa
+
+Estos cambios, se realizaron en la versión web de GitHib
