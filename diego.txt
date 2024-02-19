@@ -2,3 +2,5 @@ Hola, mi nombre es diego
 y soy programador web
 soy de venezuela
 y enseño a programar
+lo hago en lexpin
+desde españa
